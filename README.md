@@ -28,9 +28,9 @@ A empresa quer saber quais desses candidatos realmente querem trabalhar para a e
 
 ### Executando o projeto
 
- 1 - Baixe o arquivo do projeto
- 2 - Descompacte o arquivo
- 3 - Execute o arquivo .ipynb
+ 1 - Baixe o arquivo do projeto  
+ 2 - Descompacte o arquivo  
+ 3 - Execute o arquivo .ipynb  
 
 ## Autores
 
