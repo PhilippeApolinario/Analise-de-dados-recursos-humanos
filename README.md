@@ -21,7 +21,7 @@ A conclusão destaca que a análise de dados permitiu à empresa de consultoria 
 
 ## Utilização
 
-### Dependencias
+### Dependências
 
 * Sistema Operacional:
     * Windows 10 ou 11
