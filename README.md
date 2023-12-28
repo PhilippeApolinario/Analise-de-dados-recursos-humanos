@@ -16,7 +16,7 @@ A estratégia da solução envolve a condução de análises descritivas e diagn
 *	As variáveis mais pertinentes para identificar um bom candidato são: índice de desenvolvimento da cidade onde o candidato mora, tempo de experiência profissional, se o candidato está ou não matriculado em um curso universitário, se o candidato tem ou não experiência relevante e o nível educacional do candidato.
 
 ## 6. Conclusão:
-A conclusão destaca que a análise de dados permitiu à empresa de consultoria compreender melhor os fatores que impactam a retenção dos candidatos, possibilitando melhorias no processo seletivo e nos cursos oferecidos. Essa abordagem baseada em dados visa não apenas reduzir custos e tempo de contratação, mas também aprimorar a qualidade da experiência dos participantes, fortalecendo a posição da empresa no mercado de consultoria em Big Data e Data Science.
+A análise de dados permitiu à empresa de consultoria compreender melhor os fatores que impactam a retenção dos candidatos, possibilitando melhorias no processo seletivo e nos cursos oferecidos. Essa abordagem baseada em dados visa não apenas reduzir custos e tempo de contratação, mas também aprimorar a qualidade da experiência dos participantes, fortalecendo a posição da empresa no mercado de consultoria em Big Data e Data Science.
 
 
 ## Utilização
